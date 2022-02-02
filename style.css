@@ -11,9 +11,9 @@ header, footer {
     text-align: center;
 }
 main > * {
-		max-width: var(--wp--custom--width--content);
-		margin-left: auto !important;
-		margin-right: auto !important;
+    max-width: var(--wp--custom--width--content);
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 main > .alignwide {
     max-width: var(--wp--custom--width--wide);
